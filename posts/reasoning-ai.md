@@ -16,7 +16,7 @@ $$ P(w_t | w_{t-1}, w_{t-2}, ..., w_1) $$
 
 Over time, researchers found that increasing dataset diversity, model size, and training scales led to emergent capabilities like **meta-learning** and **few-shot learning**. This evolution gave rise to **ChatGPT** and even more advanced models.
 
-Then came **O1**, OpenAI’s first "reasoning" model. Shortly after, Chinese AI company **DeepSeek** introduced their own model, equaling or even surpassing **O1** in several benchmarks. The most remarkable aspect? DeepSeek achieved this with **fewer computational resources** and released their model as **open-source**, igniting excitement within the AI research community.
+Then came **o1**, OpenAI’s first "reasoning" model. Shortly after, Chinese AI company **DeepSeek** introduced their own model, equaling or even surpassing **o1** in several benchmarks. The most remarkable aspect? DeepSeek achieved this with **fewer computational resources** and released their model as **open-source**, igniting excitement within the AI research community.
 
 This marked the beginning of a new race: the competition to develop the best reasoning model.
 
