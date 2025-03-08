@@ -1,17 +1,30 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Hello there! 👋](README.md)
 
-## Getting Started
+## Posts
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+[Reasoning AI? 🤔](posts/reasoning-ai.md)
 
-## Basics
 
-* [Editor](basics/editor.md)
+
+<!-- * [Hello there! 👋](posts/hello.md)
+
+<!-- * [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md) -->
+
+## Dive Deeper
+
+[Reinforcement Learning In LLMs](dive-deeper/reinforcement-learning-in-llms.md)
+
+## Projects
+
+
+## Tutorial
+
+<!-- * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Integrations](basics/integrations.md) -->
