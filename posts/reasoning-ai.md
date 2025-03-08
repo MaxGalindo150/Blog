@@ -29,7 +29,7 @@ DeepSeek made this breakthrough by leveraging **Reinforcement Learning (RL)**, i
 GRPO’s reward system operates on two key components:
 
 - **Accuracy Rewards:** Evaluates whether the model’s response is correct. For problems like math or coding challenges (*LeetCode*), this can be objectively verified.
-- **Format Rewards:** Encourages the model to generate reasoning steps enclosed within **<think> ... </think>** tags.
+- **Format Rewards:** Encourages the model to generate reasoning steps enclosed within **`<think>` ... `<think>`** tags.
 
 This approach is intriguing because the model **learns to generate more tokens within these tags** to maximize its reward. The result? A model that outputs long reasoning chains before reaching a final answer. If you want to learn more about this, check out the [Reinforcement Learning In LLMs](https://app.gitbook.com/o/Yp4DzKrc4S9EklIKkZ4K/s/vedEAf8lekeEqjv4WpBU/dive-deeper/rl-in-llms) article.
 
