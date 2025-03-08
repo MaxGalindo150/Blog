@@ -4,7 +4,7 @@
 
 ## Posts
 
-[Reasoning AI? 🤔](posts/reasoning-ai.md)
+* [Reasoning AI? 🤔](posts/reasoning-ai.md)
 
 
 
@@ -15,7 +15,7 @@
 
 ## Dive Deeper
 
-[Reinforcement Learning In LLMs](dive-deeper/reinforcement-learning-in-llms.md)
+* [Reinforcement Learning In LLMs](dive-deeper/reinforcement-learning-in-llms.md)
 
 ## Projects
 
